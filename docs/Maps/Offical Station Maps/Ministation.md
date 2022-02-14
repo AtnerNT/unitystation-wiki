@@ -1,1 +1,3 @@
 #Ministation
+
+![Map](Ministation.PNG)
