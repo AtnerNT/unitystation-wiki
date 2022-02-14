@@ -1,6 +1,6 @@
 # Ministation
 
-![Maps](MiniStation.png)
+![Maps](MiniStation.PNG)
 
 {% include 'html/rolesnavbar.md' %}
 [[Category:Maps]]
